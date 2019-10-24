@@ -1,5 +1,5 @@
 apps:
-  - script: node index.js
+  - script: ./app.js
     name: 'simple-app-express'
     watch: true
     instances: 1
